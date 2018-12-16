@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12e0cd99-ea0f-4464-aacf-793855e77b3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mcpp/asdf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mcpp/ht.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mcpp/mcppclas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mcpp/mcppclas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mcpp/mcppclas.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,48 +18,64 @@
     <session id="-1135364266">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.74" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="42" />
+          <entry key="java" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="42" />
+          <entry key="JAVA" value="80" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="245">
+              <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/mcpp/mcppclas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mcpp/mcppclas.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/mcpp/ht.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="108">
+              <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,22 +100,25 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/mcpp/mcppclas.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mcpp/ht.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mcpp/asdf.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
+    <option name="x" value="-3" />
     <option name="y" value="20" />
-    <option name="width" value="1346" />
+    <option name="width" value="1359" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,11 +156,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544038623434" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544989985550" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,7 +175,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.asdf.openGoogle">
+    <configuration name="asdf.openGoogle" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="firsttest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mcpp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mcpp" />
+      <option name="MAIN_CLASS_NAME" value="mcpp.asdf" />
+      <option name="METHOD_NAME" value="openGoogle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ht.openGoogle" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="firsttest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mcpp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mcpp" />
+      <option name="MAIN_CLASS_NAME" value="mcpp.ht" />
+      <option name="METHOD_NAME" value="openGoogle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mcppclas" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="firsttest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mcpp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mcpp" />
+      <option name="MAIN_CLASS_NAME" value="mcpp.mcppclas" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="mcppclas.openGoogle" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="firsttest" />
       <extension name="coverage">
@@ -175,8 +246,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.mcppclas.openGoogle" />
+      <item itemvalue="TestNG.ht.openGoogle" />
+      <item itemvalue="TestNG.mcppclas" />
+      <item itemvalue="TestNG.asdf.openGoogle" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.asdf.openGoogle" />
+        <item itemvalue="TestNG.ht.openGoogle" />
+        <item itemvalue="TestNG.mcppclas" />
         <item itemvalue="TestNG.mcppclas.openGoogle" />
       </list>
     </recent_temporary>
@@ -195,48 +275,67 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="mcppclas_openGoogle - 2018.12.05 at 19h 53m 37s.xml">
-      <configuration name="mcppclas.openGoogle" configurationId="TestNG" />
+    <history-entry file="ht_openGoogle - 2018.12.16 at 21h 02m 18s.xml">
+      <configuration name="ht.openGoogle" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="mcppclas_openGoogle - 2018.12.05 at 19h 58m 53s.xml">
-      <configuration name="mcppclas.openGoogle" configurationId="TestNG" />
+    <history-entry file="ht_openGoogle - 2018.12.16 at 21h 07m 42s.xml">
+      <configuration name="ht.openGoogle" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="mcppclas_openGoogle - 2018.12.05 at 20h 02m 15s.xml">
-      <configuration name="mcppclas.openGoogle" configurationId="TestNG" />
+    <history-entry file="ht_openGoogle - 2018.12.16 at 21h 11m 21s.xml">
+      <configuration name="ht.openGoogle" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="mcppclas_openGoogle - 2018.12.05 at 21h 33m 53s.xml">
-      <configuration name="mcppclas.openGoogle" configurationId="TestNG" />
+    <history-entry file="ht_openGoogle - 2018.12.16 at 21h 13m 29s.xml">
+      <configuration name="ht.openGoogle" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ht_openGoogle - 2018.12.16 at 21h 20m 48s.xml">
+      <configuration name="ht.openGoogle" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="mcppclas - 2018.12.16 at 21h 25m 56s.xml">
+      <configuration name="mcppclas" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="mcppclas - 2018.12.16 at 21h 31m 08s.xml">
+      <configuration name="mcppclas" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ht_openGoogle - 2018.12.16 at 21h 32m 13s.xml">
+      <configuration name="ht.openGoogle" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ht_openGoogle - 2018.12.16 at 21h 37m 30s.xml">
+      <configuration name="ht.openGoogle" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="asdf_openGoogle - 2018.12.16 at 21h 42m 03s.xml">
+      <configuration name="asdf.openGoogle" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43862522" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3277311" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -245,15 +344,32 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="245">
+          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mcpp/asdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mcpp/mcppclas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state relative-caret-position="298">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mcpp/ht.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
